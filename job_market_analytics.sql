@@ -6,7 +6,7 @@ USE job_market_analytics;
 -- DATA EXPLORATION
 -- =====================================
 SELECT * FROM companies;
-SELECT *FROM jobs;
+SELECT * FROM jobs;
 SELECT * FROM candidates;
 SELECT * FROM applications;
 -- =====================================
