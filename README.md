@@ -1,47 +1,26 @@
-# job-market-Analytics-sql-project
+# Job Market Analytics Dashboard
 
 ## About This Project
-
-I created this SQL project to practice real-world data analysis and improve my SQL skills. The project focuses on analyzing job market data such as salaries, job roles, applications, and hiring trends.
-
-While working on this project, I used SQL concepts like joins, aggregate functions, GROUP BY, HAVING, and subqueries to answer business-related questions and generate useful insights from the data.
-
-## What I Learned
-
-- Designing and working with multiple related tables
-- Writing SQL queries using joins and subqueries
-- Using aggregate functions to summarize data
-- Analyzing data to find meaningful insights
-- Organizing a project for GitHub portfolio use
-
-## Key Insights
-
-- Identified the highest-paying job roles
-- Analyzed which jobs received the most applications
-- Compared average salaries across different cities
-- Explored hiring trends among companies
-- Found jobs paying above the average salary
-
-## SQL Concepts Used
-
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- HAVING
-- Aggregate Functions
-- INNER JOIN
-- Subqueries
+This project analyzes job market trends using SQL and Power BI.
 
 ## Tools Used
-
-- MySQL Workbench
 - SQL
-- GitHub
+- Power BI
 
-## Why I Built This Project
+## Key Insights
+- Total Job Openings
+- Jobs by Industry
+- Jobs by Location
+- Company-wise Hiring Trends
+- Hiring Distribution Analysis
 
-As I prepare for a Data Analyst career, I wanted to apply my SQL knowledge to a practical project instead of only solving practice questions. This project helped me understand how SQL is used to analyze business data and generate insights.
+## Skills Demonstrated
+- SQL Queries
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Power BI Dashboard Development
 
-## Author
-Shivani.R
+## Files
+- job_market_analytics.sql
+- job market analytics power bi dashboard.pbix
